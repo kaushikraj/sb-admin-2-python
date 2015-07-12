@@ -3,9 +3,12 @@
 **SB Admin 2 - Python template** is a Python based template for [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/).
 
 ## Installation
+
+```
 $virtualenv env
 $source env/bin/activate
 $pip intall -r requirements.txt
+```
 
 ## Executing the sample
 
