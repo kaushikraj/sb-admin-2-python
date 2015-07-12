@@ -2,5 +2,5 @@
 *.pyo
 app.db
 search.db
-flask
+env
 .idea

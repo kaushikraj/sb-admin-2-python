@@ -2,10 +2,13 @@
 
 **SB Admin 2 - Python template** is a Python based template for [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/).
 
-## Getting Started
+## Installation
+$virtualenv env
+$source env/bin/activate
+$pip intall -r requirements.txt
 
-* Fork/Download this repository on GitHub
-* Install [Flask](http://flask.pocoo.org/)
+## Executing the sample
+
 * Execute - ```python run.py```
 * Load browser at ```http://localhost:5000/```
 
