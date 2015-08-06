@@ -7,7 +7,7 @@
 ```
 $virtualenv env
 $source env/bin/activate
-$pip intall -r requirements.txt
+$pip install -r requirements.txt
 ```
 
 ## Executing the sample
